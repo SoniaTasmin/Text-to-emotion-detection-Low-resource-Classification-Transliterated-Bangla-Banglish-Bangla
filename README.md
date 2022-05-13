@@ -1,0 +1,2 @@
+# Text-to-emotion-detection-Low-resource-Classification-Transliterated-Bangla-Banglish-Bangla
+This project proposes a step-by-step development of a low resource emotional corpus consisting of Transliterated Bangla (Banglish) data. Furthermore, apply Machine Learning, Deep Neural Network, and Transformer-Based models to classify Ekman's six emotions from our Banglish data and existing Bangla and English data.
