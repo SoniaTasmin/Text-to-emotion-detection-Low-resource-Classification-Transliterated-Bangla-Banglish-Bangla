@@ -5,7 +5,7 @@ Developed our own dataset for Transliterate Bengali(Banglish).
 
 No of data/Text: 3044 
 
-After Easy Data Augmentation: 7611
+After Easy Data Augmentation: 7611. The Cohen's Kappa score is 0.89
 
   surprise  1319
   
