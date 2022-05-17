@@ -19,4 +19,4 @@ After Easy Data Augmentation: 7611. The Cohen's Kappa score is 0.89
   
   disgust   119
 
-![My Image](Dataset development model.png)
+![Dataset development model](https://user-images.githubusercontent.com/80270089/168723559-e270b007-a291-4d52-b8fe-35f2f0593788.png)
