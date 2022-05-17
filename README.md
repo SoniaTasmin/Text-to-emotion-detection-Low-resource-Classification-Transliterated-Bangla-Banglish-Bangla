@@ -18,5 +18,12 @@ After Easy Data Augmentation: 7611. The Cohen's Kappa score is 0.89
   fear      1231   
   
   disgust   119
+  
+Dataset development model
 
 ![Dataset development model](https://user-images.githubusercontent.com/80270089/168723559-e270b007-a291-4d52-b8fe-35f2f0593788.png)
+
+system diagram
+
+![system diagram](https://user-images.githubusercontent.com/80270089/168723646-3f21360b-f8ab-4b48-8ffb-53c6099532a8.png)
+
